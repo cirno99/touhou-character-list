@@ -176,11 +176,43 @@
     "themeMusic": ""
   },
   {
-    "id": "",
+    "id": "012",
     "name": [
-      "",
-      "",
-      ""
+      "蕾蒂·霍瓦特洛克",
+      "レティ・ホワイトロック",
+      "Letty Whiterock"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "013",
+    "name": [
+      "橙",
+      "橙",
+      "Chen"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "014",
+    "name": [
+      "爱丽丝·玛格特洛依德",
+      "アリス・マーガトロイド",
+      "Alice Margatroid"
     ],
     "nickName": "",
     "race": "",
