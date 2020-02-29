@@ -1,0 +1,114 @@
+[
+  {
+    "id": "001",
+    "name": [
+      "博丽灵梦",
+      "博麗　霊夢",
+      "Hakurei Reimu"
+    ],
+    "nickName": "乐园的巫女",
+    "race": "人类",
+    "job": "巫女",
+    "region": "博丽神社",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "002",
+    "name": [
+      "雾雨魔理沙",
+      "霧雨　魔理沙",
+      "Kirisame Marisa"
+    ],
+    "nickName": "普通的魔法师",
+    "race": "人类",
+    "job": "魔法师",
+    "region": "魔法森林里的雾雨宅",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+   {
+    "id": "003",
+    "name": [
+      "露米娅",
+      "ルーミア",
+      "Rumia"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "004",
+    "name": [
+      "大妖精",
+      "大妖精",
+      "Daiyousei"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "005",
+    "name": [
+      "琪露诺",
+      "チルノ",
+      "Cirno"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "006",
+    "name": [
+      "",
+      "",
+      ""
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "",
+    "name": [
+      "",
+      "",
+      ""
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  }
+]

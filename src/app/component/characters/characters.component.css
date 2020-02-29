@@ -1,0 +1,17 @@
+h1 {
+  margin: 0;
+  color: #2acee4;
+  font-size: 28px;
+}
+h2 {
+  margin: 0;
+  color: #02090a;
+  font-size: 14px;
+}
+h1 > small {
+  color: #ccc;
+}
+.panel-body {
+  position: relative;
+  height: 250px;
+}
