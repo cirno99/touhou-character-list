@@ -1,10 +1,234 @@
 [
   {
-    "id": "001",
-    "name": "红魔乡",
+    "id": "01",
+    "name": "???",
     "img": "",
-    "releaseDate": "",
+    "releaseDate": "1996-11-03",
     "description": "",
-    "type": ""
+    "type": "???"
+  },
+  {
+    "id": "02",
+    "name": "???",
+    "img": "",
+    "releaseDate": "1997-08-15",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "03",
+    "name": "???",
+    "img": "",
+    "releaseDate": "1997-12-29",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "04",
+    "name": "???",
+    "img": "",
+    "releaseDate": "1998-08-14",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "05",
+    "name": "???",
+    "img": "",
+    "releaseDate": "1998-12-30",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "06",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2002-08-11",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "07",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2003-08-17",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "07.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2004-12-30",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "08",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2004-08-15",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "09",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2005-08-14",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "09.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2005-12-30",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "010",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2007-08-17",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "010.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2008-05-25",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "011",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2008-08-16",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "012",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2009-08-15",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "012.3",
+    "name": "????",
+    "img": "",
+    "releaseDate": "2009-08-15",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "012.5",
+    "name": "????",
+    "img": "",
+    "releaseDate": "2010-03-14",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "012.8",
+    "name": "?????",
+    "img": "",
+    "releaseDate": "2010-08-14",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "013",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2011-08-13",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "013.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2013-05-26",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "014",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2013-08-12",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "014.3",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2014-05-11",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "014.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2015-05-10",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "015",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2015-08-14",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "015.5",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2017-12-29",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "016",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2017-08-11",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "016.5",
+    "name": "?????",
+    "img": "",
+    "releaseDate": "2018-08-10",
+    "description": "",
+    "type": "??????"
+  },
+  {
+    "id": "017",
+    "name": "???",
+    "img": "",
+    "releaseDate": "2019-08-12",
+    "description": "",
+    "type": "????"
+  },
+  {
+    "id": "017.5",
+    "name": "????",
+    "img": "",
+    "releaseDate": "2019-10-6",
+    "description": "",
+    "type": "2D??"
   }
 ]
