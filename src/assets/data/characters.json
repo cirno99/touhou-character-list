@@ -10,7 +10,7 @@
     "race": "人类",
     "job": "巫女",
     "region": "博丽神社",
-    "works": [],
+    "works": ["红魔乡","妖妖梦"],
     "description": "",
     "ability": "",
     "themeMusic": ""
@@ -31,7 +31,7 @@
     "ability": "",
     "themeMusic": ""
   },
-   {
+  {
     "id": "003",
     "name": [
       "露米娅",
@@ -82,9 +82,9 @@
   {
     "id": "006",
     "name": [
-      "",
-      "",
-      ""
+      "红美铃",
+      "紅 美鈴",
+      "Hoan Meirin"
     ],
     "nickName": "",
     "race": "",
@@ -96,11 +96,123 @@
     "themeMusic": ""
   },
   {
-    "id": "",
+    "id": "007",
     "name": [
-      "",
-      "",
-      ""
+      "小恶魔",
+      "小悪魔",
+      "Koakuma"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "008",
+    "name": [
+      "帕秋莉·诺蕾姬",
+      "パチュリー・ノーレッジ",
+      "Patchouli Knowledge"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "009",
+    "name": [
+      "十六夜咲夜",
+      "十六夜 咲夜",
+      "Izayoi Sakuya"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "010",
+    "name": [
+      "蕾米莉亚·斯卡蕾特",
+      "レミリア・スカーレット",
+      "Remilia Scarlet"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "011",
+    "name": [
+      "芙兰朵露·斯卡蕾特",
+      "フランドール・スカーレット",
+      "Flandre Scarlet"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "012",
+    "name": [
+      "蕾蒂·霍瓦特洛克",
+      "レティ・ホワイトロック",
+      "Letty Whiterock"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "013",
+    "name": [
+      "橙",
+      "橙",
+      "Chen"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "ability": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "014",
+    "name": [
+      "爱丽丝·玛格特洛依德",
+      "アリス・マーガトロイド",
+      "Alice Margatroid"
     ],
     "nickName": "",
     "race": "",

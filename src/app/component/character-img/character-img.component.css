@@ -1,6 +1,6 @@
 .avatar {
-  max-width: 480px;
-  margin-bottom: 20px;
+  max-width: 380px;
+  margin-bottom: 40px;
 }
 img {
   position: absolute;
@@ -9,6 +9,6 @@ img {
   left: 0;
   right: 0;
   margin: auto;
-  max-width: 200px;
-  max-height: 230px;
+  max-width: auto;
+  max-height: 400px;
 }

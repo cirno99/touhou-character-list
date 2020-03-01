@@ -7,25 +7,33 @@
  -->
 
 
-<div>
+<div class="absolute-center">
   <div class="page-header">
-    <h1>TOUHOU Character List<small class="pull-right">Showing <span class="badge">{{characters.length}}</span>
-        Characters</small>
+    <h1>東方角色列表<small class="float-sm-right">已收录<span class="badge badge-pill badge-info">{{characters.length}}</span>
+        个角色</small>
     </h1>
   </div>
   <div class="row" *ngFor="let group of groupped">
     <div class="col-lg-3" *ngFor="let character of group">
-      <div class="pokemon panel panel-primary">
-        <div class="panel-heading">
-          <h2><span class="label">{{character.name[0] +" / "+ character.name [1] +" / "+ character.name[2]}}</span>
+      <div class="card border-info mb-3">
+        <div class="card-header">
+          <h2><span class="badge badge-info float-sm-left">{{character.name[0]}}</span>
           </h2>
         </div>
-        <div class="panel-body">
+        <div class="card-body image">
           <a [routerLink]="['/character', character.name[0] ]">
             <app-character-img [name]="character.name[2]"></app-character-img>
           </a>
         </div>
-
+        <div class="card-footer">
+          <div class="text-center">
+            <a *ngFor="let work of character.works">
+              <span class="badge badge-pill badge-danger float-sm-left">
+                {{work}}
+              </span>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
