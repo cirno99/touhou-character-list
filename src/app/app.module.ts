@@ -10,6 +10,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { NavbarComponent } from './component/navbar/navbar.component';
 import { CharacterImgComponent } from './component/character-img/character-img.component';
 import { ThumbnailPipe } from './pipe/thumbnail.pipe';
+import { CharacterDetailComponent } from './component/character-detail/character-detail.component';
+import { CharacterDataComponent } from './component/character-data/character-data.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,7 +19,9 @@ import { ThumbnailPipe } from './pipe/thumbnail.pipe';
     AboutComponent,
     NavbarComponent,
     CharacterImgComponent,
-    ThumbnailPipe
+    ThumbnailPipe,
+    CharacterDetailComponent,
+    CharacterDataComponent
   ],
   imports: [
     BrowserModule,

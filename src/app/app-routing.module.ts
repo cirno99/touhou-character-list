@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CharactersComponent } from './component/characters/characters.component';
 import { AboutComponent } from './component/about/about.component';
+import { CharacterDetailComponent } from './component/character-detail/character-detail.component';
 const routes: Routes = [
   {
     path: 'characters',
@@ -16,10 +17,10 @@ const routes: Routes = [
     redirectTo: 'characters',
     pathMatch: 'full'
   },
-  //  {
-  //   path: 'character/:name',
-    // component:
-  // },
+   {
+    path: 'character/:name',
+    component: CharacterDetailComponent
+  },
 ];
 
 @NgModule({

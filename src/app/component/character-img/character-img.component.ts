@@ -19,7 +19,6 @@ export class CharacterImgComponent implements OnInit {
   }
   showCharacterImage() {
     const str =  this.imgs[`${this.name}`];
-    console.log(str);
     return str;
   }
 }

@@ -1,0 +1,29 @@
+<div class="page-header">
+  <h2><span class="badge badge-info float-sm-left">{{character.name[0]}}</span>
+          </h2>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <app-character-img [name]="character.name[2]"></app-character-img>
+  </div>
+  <div class="col-md-6">
+    <ul class="nav nav-tabs justify-content-around">
+      <li [ngClass]="{ 'active': tab === 1 }"><a (click)="selectTab(1)">角色信息</a></li>
+      <li [ngClass]="{ 'active': tab === 2 }"><a (click)="selectTab(2)">登场作品</a></li>
+      <li [ngClass]="{ 'active': tab === 3 }"><a (click)="selectTab(3)">Evolution</a></li>
+    </ul>
+    <div class="tab-content">
+      <div *ngIf="tab === 1">
+        <!-- <pokemon-data [pokemon]="pokemon"></pokemon-data> -->
+      </div>
+
+      <div *ngIf="tab === 2">
+        <!-- <pokemon-stats [pokemon]="pokemon"></pokemon-stats> -->
+      </div>
+
+      <div *ngIf="tab === 3">
+        <!-- <pokemon-evolution [pokemon]="pokemon"></pokemon-evolution> -->
+      </div>
+    </div>
+  </div>
+</div>
