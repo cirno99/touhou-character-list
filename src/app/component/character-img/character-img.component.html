@@ -1,1 +1,3 @@
-<img class="avatar d-block mx-auto" src="{{ showCharacterImage() | thumbnail }}">
+<div *ngIf="thumbnail=== false">
+  <img class="avatar d-block mx-auto" src="{{ showCharacterImage()}}"></div>
+<div *ngIf="thumbnail=== true"><img class="image d-block mx-auto" src="{{ showCharacterImage() | thumbnail }}"></div>

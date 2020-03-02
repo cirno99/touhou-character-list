@@ -1,8 +1,8 @@
 .avatar {
-  max-width: 380px;
+  max-width: 330px;
   margin-bottom: 40px;
 }
-img {
+.image {
   position: absolute;
   top: 0;
   bottom: 0;

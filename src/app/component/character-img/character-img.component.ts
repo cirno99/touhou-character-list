@@ -11,6 +11,7 @@ export class CharacterImgComponent implements OnInit {
   imgs: {[key: string]: string};
   // imgs;
   @Input() name: string;
+  @Input() thumbnail = true;
   ngOnInit(): void {
     this.imageService.getImages().subscribe(data => {
       this.imgs = data[0];

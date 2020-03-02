@@ -1,28 +1,36 @@
-<div class="page-header">
-  <h2><span class="badge badge-info float-sm-left">{{character.name[0]}}</span>
-          </h2>
-</div>
-<div class="row">
-  <div class="col-md-6">
-    <app-character-img [name]="character.name[2]"></app-character-img>
+<div class="card border-dark">
+  <div class="panel">
+    <h2><span class="badge badge-info float-sm-left">{{character.name[0]}}</span>
+    </h2>
+    <h2><span class="badge badge-info float-sm-left">{{character.name[1]}}</span>
+    </h2>
+    <h2><span class="badge badge-info float-sm-left">{{character.name[2]}}</span>
+    </h2>
   </div>
-  <div class="col-md-6">
-    <ul class="nav nav-tabs justify-content-around">
-      <li [ngClass]="{ 'active': tab === 1 }"><a (click)="selectTab(1)">角色信息</a></li>
-      <li [ngClass]="{ 'active': tab === 2 }"><a (click)="selectTab(2)">登场作品</a></li>
-      <li [ngClass]="{ 'active': tab === 3 }"><a (click)="selectTab(3)">Evolution</a></li>
-    </ul>
-    <div class="tab-content">
-      <div *ngIf="tab === 1">
-        <!-- <pokemon-data [pokemon]="pokemon"></pokemon-data> -->
-      </div>
+  <div class="row">
+    <div class="card-body float-left">
+      <app-character-img [thumbnail]="false" [name]="character.name[2]"></app-character-img>
+    </div>
+    <div class="col-md-4">
+      <ul class="nav nav-tabs justify-content-around" role="tablist">
+        <li class="nav-item"><a class="nav-link" [ngClass]="{ 'active': tab === 1 }" (click)="selectTab(1)">角色信息</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" [ngClass]="{ 'active': tab === 2 }" (click)="selectTab(2)">登场作品</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" [ngClass]="{ 'active': tab === 3 }" (click)="selectTab(3)">主题曲</a></li>
+      </ul>
+      <div class="tab-content">
+        <div *ngIf="tab === 1">
+          <app-character-data [character]="character"></app-character-data>
+        </div>
 
-      <div *ngIf="tab === 2">
-        <!-- <pokemon-stats [pokemon]="pokemon"></pokemon-stats> -->
-      </div>
+        <div *ngIf="tab === 2">
+          <!-- <pokemon-stats [pokemon]="pokemon"></pokemon-stats> -->
+        </div>
 
-      <div *ngIf="tab === 3">
-        <!-- <pokemon-evolution [pokemon]="pokemon"></pokemon-evolution> -->
+        <div *ngIf="tab === 3">
+          <!-- <pokemon-evolution [pokemon]="pokemon"></pokemon-evolution> -->
+        </div>
       </div>
     </div>
   </div>

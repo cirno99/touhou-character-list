@@ -1,9 +1,8 @@
 .avatar {
-  max-width: 330px;
+  max-width: 380px;
   margin-bottom: 40px;
 }
-
-.image {
+img {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -12,4 +11,9 @@
   margin: auto;
   max-width: auto;
   max-height: 400px;
+}
+h2 {
+  margin: 0;
+  color: #02090a;
+  font-size: 38px;
 }
