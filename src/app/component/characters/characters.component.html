@@ -19,13 +19,15 @@
         <div class="card-header">
           <h2><span class="badge badge-info float-sm-left">{{character.name[0]}}</span>
           </h2>
+          <h3><span class="float-sm-right">{{character.nickName}}</span>
+          </h3>
         </div>
         <div class="card-body image">
           <a [routerLink]="['/character', character.name[2] ]">
             <app-character-img [name]="character.name[2]"></app-character-img>
           </a>
         </div>
-        <div class="card-footer">
+        <!-- <div class="card-footer">
           <div class="text-center">
             <a *ngFor="let work of character.works">
               <span class="badge badge-pill badge-danger float-sm-left">
@@ -33,7 +35,7 @@
               </span>
             </a>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

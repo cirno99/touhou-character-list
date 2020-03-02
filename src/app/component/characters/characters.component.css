@@ -6,6 +6,11 @@ h1 {
 h2 {
   margin: 0;
   color: #02090a;
+  font-size: 22px;
+}
+h3 {
+  margin: 0;
+  color: #818d8f;
   font-size: 18px;
 }
 h1 > small {

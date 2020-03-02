@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { PaginationModule } from 'ngx-bootstrap/pagination';
 import { CharactersComponent } from './component/characters/characters.component';
 import { AboutComponent } from './component/about/about.component';
 import { HttpClientModule } from '@angular/common/http';
@@ -12,6 +11,9 @@ import { CharacterImgComponent } from './component/character-img/character-img.c
 import { ThumbnailPipe } from './pipe/thumbnail.pipe';
 import { CharacterDetailComponent } from './component/character-detail/character-detail.component';
 import { CharacterDataComponent } from './component/character-data/character-data.component';
+import { CharacterWorksComponent } from './component/character-works/character-works.component';
+import { CharacterWorkDetailComponent } from './component/character-work-detail/character-work-detail.component';
+import { CharacterMusicComponent } from './component/character-music/character-music.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,13 +23,15 @@ import { CharacterDataComponent } from './component/character-data/character-dat
     CharacterImgComponent,
     ThumbnailPipe,
     CharacterDetailComponent,
-    CharacterDataComponent
+    CharacterDataComponent,
+    CharacterWorksComponent,
+    CharacterWorkDetailComponent,
+    CharacterMusicComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    PaginationModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

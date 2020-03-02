@@ -10,10 +10,46 @@
     "race": "人类",
     "job": "巫女",
     "region": "博丽神社",
-    "works": ["红魔乡","妖妖梦"],
-    "description": "",
-    "ability": "",
-    "themeMusic": ""
+    "works": [
+      "红魔乡",
+      "妖妖梦",
+      "萃梦想",
+      "永夜抄",
+      "花映塚",
+      "文花帖",
+      "风神录",
+      "绯想天",
+      "地灵殿",
+      "星莲船",
+      "非想天则",
+      "对抗新闻",
+      "神灵庙",
+      "心绮楼",
+      "辉针城",
+      "弹幕天邪鬼",
+      "深秘录",
+      "绀珠传",
+      "凭依华",
+      "天空璋",
+      "秘封噩梦日记",
+      "鬼形兽",
+      "刚欲异闻"
+    ],
+    "description": "贯穿全东方系列的主角。作为博丽的巫女，灵梦的主要工作是维持幻想乡的博丽大结界和解决妖怪引发的异变。 ",
+    "abilities": [
+      "操纵灵气的能力（红魔乡）",
+      "在空中飞行程度的能力（红魔乡、求闻史纪）",
+      "主要拥有在空中飞翔程度的能力（妖妖梦、永夜抄、花映塚、风神录、地灵殿、星莲船、神灵庙、辉针城、绀珠传、天空璋、鬼形兽）"
+    ],
+    "themeMusic": [
+      "東方妖恋談（东方梦时空、东方萃梦想、东方绯想天、东方非想天则）",
+      "少女綺想曲　～ Capriccio（东方幻想乡、东方萃梦想）",
+      "Witching Dream（东方幻想乡",
+      "二色蓮花蝶　～ Ancients（秋霜玉、东方非想天则）",
+      "二色蓮花蝶　～ Red and White（蓬莱人形）",
+      "少女綺想曲　～ Dream Battle（东方永夜抄）",
+      "春色小径　～ Colorful Path（东方花映冢、东方心绮楼、东方深秘录）"
+    ]
   },
   {
     "id": "002",
@@ -28,7 +64,7 @@
     "region": "魔法森林里的雾雨宅",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -44,7 +80,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -60,7 +96,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -76,7 +112,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -92,7 +128,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -108,7 +144,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -124,7 +160,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -140,7 +176,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -156,7 +192,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -172,7 +208,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -188,7 +224,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -204,7 +240,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   },
   {
@@ -220,7 +256,7 @@
     "region": "",
     "works": [],
     "description": "",
-    "ability": "",
+    "abilities": "",
     "themeMusic": ""
   }
 ]

@@ -11,11 +11,26 @@
     <strong>职业</strong>
     <span class="float-right">{{character.job}}</span>
   </li>
+  <li class="list-group-item">
+    <strong>所在地</strong>
+    <span class="float-right">{{character.region}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>描述</strong>
+    <span class="float-right">{{character.description}}</span>
+  </li>
+  <li class="list-group-item">
+    <div>
+      <strong class="mb-1">能力</strong>
+    </div>
+    <span *ngFor="let ability of character.abilities" class="float-sm-left">{{ability}}<br /></span>
+  </li>
+
   <!-- <li class="list-group-item">
     <strong>Abilities</strong>
     <ul>
-      <li *ngFor="let ability of pokemon.abilities">
-        {{ ability }}
+      <li *ngFor="let abilities of pokemon.abilities">
+        {{ abilities }}
       </li>
     </ul>
   </li> -->

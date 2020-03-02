@@ -1,0 +1,20 @@
+<!-- <div (mouseenter)="mouseEnter('div a') " (mouseleave)="mouseLeave('div A')">
+  <h2>Div A</h2>
+  
+</div>
+<div (mouseenter)="mouseEnter('div b')" (mouseleave)="mouseLeave('div B')">
+  <h2>Div B</h2>
+</div> -->
+<div>
+  <div>
+    <ul class="nav nav-tabs justify-content-around float-left" *ngFor="let work of character.works">
+      <li class="nav-item nav-link active badge">
+        <a (click)="clickEvent(work)" class="">{{work}}</a>
+      </li>
+    </ul>
+    <div class="float-left" *ngIf="showingPage !== ''">
+      <app-character-work-detail [workName]="showingPage"></app-character-work-detail>
+    </div>
+  </div>
+
+</div>

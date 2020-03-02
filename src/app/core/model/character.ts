@@ -7,5 +7,6 @@ export class Character {
   region: string; // 区域
   works: string[]; // 登场作品
   description: string; // 描述
-  themeMusic: string; // 主题曲
+  themeMusic: string[]; // 主题曲
+  abilities: string[];
 }
