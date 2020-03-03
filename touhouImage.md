@@ -10,6 +10,7 @@
 [Doremy Sweet](https://tva2.sinaimg.cn/large/0083GNecgy1gc9tpqxegij30mj0ws7et.jpg)
 [Ebisu Eika](https://tvax4.sinaimg.cn/large/0083GNecgy1gc9tpr7vcdj30h80t6n3p.jpg)
 [Elis](https://tva4.sinaimg.cn/large/0083GNecgy1gc9tprinpdj31150v41az.jpg)
+[Ellen](https://tvax2.sinaimg.cn/large/0083GNecgy1gcgle3lwo9j30kl0xcwpl.jpg)
 [Elliy](https://tva2.sinaimg.cn/large/0083GNecgy1gc9tprtn26j30oe0wsn94.jpg)
 [Eternity Larva](https://tva1.sinaimg.cn/large/0083GNecgy1gc9tps3z4dj30ui0wsn8u.jpg)
 [Flandre Scarletpng](https://tva4.sinaimg.cn/large/0083GNecgy1gc9tpseku7j30na0tgakr.jpg)
@@ -140,3 +141,5 @@
 [Yuki](https://tvax2.sinaimg.cn/large/0083GNecgy1gc9tqxkl0zj30tg0uutj7.jpg)
 [Yumeko](https://tva3.sinaimg.cn/large/0083GNecgy1gc9tqxtg9rj30r30ws7ht.jpg)
 [YuugenMagan](https://tvax3.sinaimg.cn/large/0083GNecgy1gc9tqy8kcaj31an1591jw.jpg)
+[Kana Anaberal](https://tvax4.sinaimg.cn/large/0083GNecgy1gcglk1sbrbj30jx0xcdp2.jpg)
+[Kotohime](https://tvax3.sinaimg.cn/large/0083GNecgy1gcglk29pv5j30lx0xc497.jpg)

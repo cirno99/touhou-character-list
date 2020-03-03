@@ -15,7 +15,6 @@ export class CharacterWorksComponent implements OnInit {
   showingPage = '';
   constructor(
     private workService: WorkService,
-    private routeParams: ActivatedRoute
   ) {}
   ngOnInit(): void {}
   clickEvent(workName: string) {
