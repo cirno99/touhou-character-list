@@ -35,20 +35,20 @@
       "鬼形兽",
       "刚欲异闻"
     ],
-    "description": "贯穿全东方系列的主角。作为博丽的巫女，灵梦的主要工作是维持幻想乡的博丽大结界和解决妖怪引发的异变。 ",
+    "description": "贯穿全系列的主角。作为博丽的巫女，灵梦的主要工作是维持幻想乡的博丽大结界和解决妖怪引发的异变。 ",
     "abilities": [
       "操纵灵气的能力（红魔乡）",
       "在空中飞行程度的能力（红魔乡、求闻史纪）",
       "主要拥有在空中飞翔程度的能力（妖妖梦、永夜抄、花映塚、风神录、地灵殿、星莲船、神灵庙、辉针城、绀珠传、天空璋、鬼形兽）"
     ],
     "themeMusic": [
-      "東方妖恋談（东方梦时空、东方萃梦想、东方绯想天、东方非想天则）",
-      "少女綺想曲　～ Capriccio（东方幻想乡、东方萃梦想）",
-      "Witching Dream（东方幻想乡",
-      "二色蓮花蝶　～ Ancients（秋霜玉、东方非想天则）",
+      "東方妖恋談（梦时空、萃梦想、绯想天、非想天则）",
+      "少女綺想曲　～ Capriccio（幻想乡、萃梦想）",
+      "Witching Dream（幻想乡)",
+      "二色蓮花蝶　～ Ancients（秋霜玉、非想天则）",
       "二色蓮花蝶　～ Red and White（蓬莱人形）",
-      "少女綺想曲　～ Dream Battle（东方永夜抄）",
-      "春色小径　～ Colorful Path（东方花映冢、东方心绮楼、东方深秘录）"
+      "少女綺想曲　～ Dream Battle（永夜抄）",
+      "春色小径　～ Colorful Path（花映冢、心绮楼、深秘录）"
     ]
   },
   {
@@ -62,10 +62,47 @@
     "race": "人类",
     "job": "魔法师",
     "region": "魔法森林里的雾雨宅",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "works": [
+      "红魔乡",
+      "妖妖梦",
+      "萃梦想",
+      "永夜抄",
+      "花映塚",
+      "文花帖",
+      "风神录",
+      "绯想天",
+      "地灵殿",
+      "星莲船",
+      "非想天则",
+      "对抗新闻",
+      "妖精大战争",
+      "神灵庙",
+      "心绮楼",
+      "辉针城",
+      "弹幕天邪鬼",
+      "深秘录",
+      "绀珠传",
+      "凭依华",
+      "天空璋",
+      "秘封噩梦日记",
+      "鬼形兽",
+      "刚欲异闻"
+    ],
+    "description": "一名居住在魔法森林中的人类普通魔法师，擅长光和热的魔法，目前住在魔法之森的边缘。座右铭是“不华丽就算不上魔法，弹幕要的就是火力！”，此外还有收集东西的爱好。 同时，她也是系列的第二主角。 ",
+    "abilities": [
+      "操纵魔法程度的能力（红魔乡）",
+      "主要拥有使用魔法程度的能力（妖妖梦）",
+      "使用魔法程度的能力（萃梦想、永夜抄、求闻史纪、花映塚、地灵殿、星莲船、神灵庙、辉针城、绀珠传、天空璋、鬼形兽）"
+    ],
+    "themeMusic": [
+      "恋色マジック(封魔录, 萃梦想, 非想天则)",
+      "Dim. Dream(梦时空)",
+      "星の器　～ Casket of Star(幻想乡, 绯想天)",
+      "魔女達の舞踏会 (秋霜玉, 萃梦想)",
+      "恋色マスタースパーク（永夜抄)",
+      "オリエンタルダークフライト(花映冢)",
+      "メイガスナイト(妖精大战争、心绮楼)"
+    ]
   },
   {
     "id": "003",
@@ -74,14 +111,22 @@
       "ルーミア",
       "Rumia"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "宵暗的妖怪",
+    "race": "妖怪",
+    "job": "不明",
+    "region": "不明",
+    "works": [
+      "红魔乡",
+      "文花帖",
+      "心绮楼"
+    ],
+    "description": "一只能够操纵黑暗的比较弱的妖怪，同时也是少有的没有具体种族的物种。最初在東方紅魔郷　～ Embodiment of Scarlet Devil.作为一面boss登场，随后在文花帖中也有出现。在心绮楼的战斗背景也有她的身影。 ",
+    "abilities": [
+      "操纵黑暗程度的能力（红魔乡、求闻史纪）"
+    ],
+    "themeMusic": [
+      "妖魔夜行（東方紅魔郷　～ Embodiment of Scarlet Devil.）"
+    ]
   },
   {
     "id": "004",
@@ -90,14 +135,21 @@
       "大妖精",
       "Daiyousei"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "不明",
+    "race": "妖精",
+    "job": "不明",
+    "region": "雾之湖",
+    "works": [
+      "红魔乡",
+      "妖精大战争"
+    ],
+    "description": "是生活在雾之湖边的一个较强的妖精，“其性格与其它妖精没什么不同，活泼好动喜欢搞恶作剧”。 ",
+    "abilities": [
+      "不明"
+    ],
+    "themeMusic": [
+      "不明"
+    ]
   },
   {
     "id": "005",
@@ -106,14 +158,31 @@
       "チルノ",
       "Cirno"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "冰之妖精",
+    "race": "妖精",
+    "job": "不明",
+    "region": "雾之湖",
+    "works": [
+      "红魔乡",
+      "妖妖梦",
+      "花映塚",
+      "文花帖",
+      "非想天则",
+      "妖精大战争",
+      "心绮楼",
+      "辉针城",
+      "弹幕天邪鬼",
+      "天空璋"
+    ],
+    "description": "是一个冰之妖精。在妖精之中她属于最强的那一级别，不过在幻想乡的众多妖怪之中她是比较弱的。琪露诺比较孩子气，是一个“官方认可”的笨蛋，并且拥有“官方”绰号“⑨”。 ",
+    "abilities": [
+      "操控冷气程度的能力（红魔乡、妖妖梦、花映塚、求闻史纪）",
+      "操纵冰程度的能力（辉针城、天空璋）"
+    ],
+    "themeMusic": [
+      "おてんば恋娘（红魔乡、非想天则）",
+      "おてんば恋娘の冒険（花映冢）"
+    ]
   },
   {
     "id": "006",
@@ -122,14 +191,21 @@
       "紅 美鈴",
       "Hoan Meirin"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "华人小姑娘",
+    "race": "妖怪",
+    "job": "红魔馆的门卫",
+    "region": "红魔馆",
+    "works": [
+      "红魔乡",
+      "萃梦想",
+      "文花帖",
+      "非想天则"
+    ],
+    "description": "是一个华人妖怪，拥有操纵“气”的能力，是红魔馆的门卫。她精通中国武术是一个各方面能力均衡的妖怪，是红魔馆的门卫。她精通中国武术，她在格斗作品中的很多招式和《北斗神拳》中的“雷暴神脚”十分相似，而也是起源自中国武术中的“神脚”。 ",
+    "abilities": [
+      "使用气的程度的能力（红魔乡、求闻史纪）"
+    ],
+    "themeMusic": []
   },
   {
     "id": "007",
@@ -138,14 +214,18 @@
       "小悪魔",
       "Koakuma"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "不明",
+    "race": "恶魔",
+    "job": "图书馆助理",
+    "region": "红魔馆大图书馆",
+    "works": [
+      "红魔乡"
+    ],
+    "description": "是東方紅魔郷　～ Embodiment of Scarlet Devil.的第四关头目。几乎没有任何其他关于她的资料，一般认为她居住在红魔馆内，是大图书馆里帕秋莉·诺蕾姬的助手。 ",
+    "abilities": [
+      "不明"
+    ],
+    "themeMusic": []
   },
   {
     "id": "008",
@@ -154,14 +234,33 @@
       "パチュリー・ノーレッジ",
       "Patchouli Knowledge"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "不动的大图书馆",
+    "race": "魔女，魔法使",
+    "job": " 学者，图书管理员",
+    "region": "红魔馆",
+    "works": [
+      "红魔乡",
+      "妖妖梦",
+      "萃梦想",
+      "永夜抄",
+      "花映塚",
+      "文花帖",
+      "绯想天",
+      "地灵殿",
+      "非想天则",
+      "心绮楼"
+    ],
+    "description": "首次登场在東方紅魔郷　～ Embodiment of Scarlet Devil.的第4关。她是一个魔法使，也是红魔馆的主人——蕾米莉亚的好朋友并且也负责馆内的大图书馆。非常博学，以至于平常看见她都是在研究馆内数不清的大部头书。但是她强大的能力被虚弱的身体尤其是影响魔法咏唱的哮喘所限制。 ",
+    "abilities": [
+      "操纵火＋水＋木＋金＋土＋日＋月的程度的能力（红魔乡）",
+      "使用魔法（主要是精灵魔法）程度的能力（萃梦想）",
+      "使用魔法程度的能力（地灵殿）",
+      "使用魔法（主要是属性）程度的能力（求闻史纪）"
+    ],
+    "themeMusic": [
+      "ラクトガール　～ 少女密室（红魔乡、萃梦想、绯想天）",
+      "ヴワル魔法図書館（萃梦想、非想天则）"
+    ]
   },
   {
     "id": "009",
@@ -170,14 +269,32 @@
       "十六夜 咲夜",
       "Izayoi Sakuya"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "红魔馆的女仆",
+    "race": "人类",
+    "job": "女仆长",
+    "region": "红魔馆",
+    "works": [
+      "红魔乡",
+      "妖妖梦",
+      "萃梦想",
+      "永夜抄",
+      "花映塚",
+      "文花帖",
+      "绯想天",
+      "非想天则",
+      "心绮楼",
+      "辉针城",
+      "弹幕天邪鬼"
+    ],
+    "description": "是红魔馆的女仆长，也是红魔馆中唯一的一名人类。",
+    "abilities": [
+      "操控时间程度的能力（红魔乡、妖妖梦、萃梦想、永夜抄、花映塚、辉针城、求闻史纪）"
+    ],
+    "themeMusic": [
+      "月時計　～ ルナ・ダイアル（红魔乡、萃梦想）",
+      "メイドと血の懐中時計（萃梦想）",
+      "フラワリングナイト（花映冢、绯想天）"
+    ]
   },
   {
     "id": "010",
@@ -186,14 +303,25 @@
       "レミリア・スカーレット",
       "Remilia Scarlet"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "红色恶魔",
+    "race": "吸血鬼",
+    "job": "红魔馆的大小姐",
+    "region": "红魔馆",
+    "works": [
+      "红魔乡",
+      "萃梦想",
+      "永夜抄",
+      "文花帖",
+      "绯想天",
+      "非想天则",
+      "心绮楼",
+      "弹幕天邪鬼"
+    ],
+    "description": "是红魔馆的主人，一位吸血鬼。她是十六夜咲夜，红美铃和妖精女仆们的主人。她也是芙兰朵露·斯卡蕾特的姐姐。 ",
+    "abilities": [
+      "操纵命运程度的能力（红魔乡、萃梦想、永夜抄、求闻史纪）"
+    ],
+    "themeMusic": []
   },
   {
     "id": "011",
@@ -202,14 +330,21 @@
       "フランドール・スカーレット",
       "Flandre Scarlet"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "恶魔的妹妹",
+    "race": "吸血鬼",
+    "job": "不明",
+    "region": "红魔馆地下室",
+    "works": [
+      "红魔乡",
+      "文花帖",
+      "秘封噩梦日记"
+    ],
+    "description": "是蕾米莉亚·斯卡蕾特的妹妹，是一只被监禁于红魔馆地下室中至少495年的吸血鬼。 ",
+    "abilities": [
+      "把所有存在之物都破坏掉的程度的能力（红魔乡）",
+      "将一切悉数破坏程度的能力（求闻史纪）"
+    ],
+    "themeMusic": []
   },
   {
     "id": "012",
@@ -218,14 +353,22 @@
       "レティ・ホワイトロック",
       "Letty Whiterock"
     ],
-    "nickName": "",
-    "race": "",
-    "job": "",
-    "region": "",
-    "works": [],
-    "description": "",
-    "abilities": "",
-    "themeMusic": ""
+    "nickName": "冬之妖怪",
+    "race": "妖怪，雪女",
+    "job": "不明",
+    "region": "不明",
+    "works": [
+      "妖妖梦",
+      "文花帖",
+      "心绮楼"
+    ],
+    "description": "是只在冬天出现的妖怪。在東方妖々夢　～ Perfect Cherry Blossom.中她早早地出现并攻击主角，但她并没有认真出手，所以她的真实实力并不清楚。她在冬季以外的季节，在一个未知的地点休息。在秋季结束时她会回来。她看起来喜欢把人用恰好的温度冻起来。 ",
+    "abilities": [
+      "操纵寒气程度的能力 （妖妖梦、求闻史纪）"
+    ],
+    "themeMusic": [
+      "クリスタライズシルバー（妖妖梦）"
+    ]
   },
   {
     "id": "013",
@@ -233,6 +376,35 @@
       "橙",
       "橙",
       "Chen"
+    ],
+    "nickName": "凶兆的黑猫",
+    "race": "妖兽，二尾猫又",
+    "job": "八云蓝的式神",
+    "region": "妖怪之山",
+    "works": [
+      "妖妖梦",
+      "萃梦想",
+      "文花帖",
+      "绯想天",
+      "非想天则",
+      "心绮楼",
+      "凭依华"
+    ],
+    "description": "是八云蓝的式神，在東方妖々夢　～ Perfect Cherry Blossom.故事中守护着迷途之家。不过，在远离其主人时她并没有很强的力量；之后，在主人蓝的身边时，战斗力比之前强了许多。 ",
+    "abilities": [
+      "吓唬人类程度的能力（非式神）/使用妖术程度的能力（式神）（妖妖梦）",
+      "使用妖术程度的能力（求闻史纪)"
+    ],
+    "themeMusic": [
+      "ティアオイエツォン(withered leaf)（东方妖妖梦）"
+    ]
+  },
+  {
+    "id": "014",
+    "name": [
+      "爱丽丝·玛格特洛依德",
+      "アリス・マーガトロイド",
+      "Alice Margatroid"
     ],
     "nickName": "",
     "race": "",
@@ -244,11 +416,2043 @@
     "themeMusic": ""
   },
   {
-    "id": "014",
+    "id": "015",
     "name": [
-      "爱丽丝·玛格特洛依德",
-      "アリス・マーガトロイド",
-      "Alice Margatroid"
+      "莉莉霍瓦特",
+      "リリーホワイト",
+      "Lily White"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "016",
+    "name": [
+      "露娜萨·普莉兹姆利巴",
+      "ルナサ・プリズムリバー",
+      "Lunasa Prismriver"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "017",
+    "name": [
+      "梅露兰·普莉兹姆利巴",
+      "メルラン・プリズムリバー ",
+      "Merlin Prismriver"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "018",
+    "name": [
+      "莉莉卡·普莉兹姆利巴",
+      "リリカ・プリズムリバー",
+      "Lyrica Prismriver"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "019",
+    "name": [
+      "魂魄妖梦",
+      "魂魄 妖夢",
+      "Konpaku Youmu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "020",
+    "name": [
+      "西行寺幽幽子",
+      "西行寺 幽々子",
+      "Saigyouji Yuyuko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "021",
+    "name": [
+      "八云蓝",
+      "八雲 藍",
+      "Yakumo Ran"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "022",
+    "name": [
+      "八云紫",
+      "八雲 紫",
+      "Yakumo Yukari"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "023",
+    "name": [
+      "伊吹萃香",
+      "伊吹 萃香",
+      "Ibuki Suika"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "024",
+    "name": [
+      "莉格露·奈特巴格",
+      "リグル・ナイトバグ",
+      "Wriggle Nightbug"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "025",
+    "name": [
+      "米斯蒂娅·萝蕾拉",
+      "ミスティア・ローレライ",
+      "Mystia Lorelei"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "026",
+    "name": [
+      "上白泽慧音",
+      "上白沢 慧音",
+      "Kamishirasawa Keine"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "027",
+    "name": [
+      "因幡天为（因幡帝）",
+      "因幡 てゐ",
+      "Inaba Tewi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "028",
+    "name": [
+      "铃仙·优昙华院·因幡",
+      "鈴仙·優曇華院・イナバ",
+      "Reisen Udongein Inaba"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "029",
+    "name": [
+      "八意永琳",
+      "八意 永琳",
+      "Yagokoro Eirin"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "030",
+    "name": [
+      "蓬莱山辉夜",
+      "蓬莱山 輝夜",
+      "Houraisan Kaguya"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "031",
+    "name": [
+      "藤原妹红",
+      "藤原 妹紅",
+      "Huziwara no Mokou"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "032",
+    "name": [
+      "射命丸文",
+      "射命丸 文",
+      "Syameimaru Aya"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "033",
+    "name": [
+      "梅蒂欣·梅兰可莉",
+      "メディスン・メランコリー",
+      "Medicine Melancholy"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "034",
+    "name": [
+      "风见幽香",
+      "風見 幽香",
+      "Kazami Yuka"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "035",
+    "name": [
+      "小野塚小町",
+      "小野塚 小町",
+      "Onozuka Komachi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "036",
+    "name": [
+      "四季映姬·夜摩仙那度",
+      "四季映姫・ヤマザナドゥ",
+      "Shikieiki Yamaxanadu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "037",
+    "name": [
+      "秋静叶",
+      "秋 静葉",
+      "Aki Shizuha"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "038",
+    "name": [
+      "秋穰子",
+      "秋 穣子",
+      "Aki Minoriko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "039",
+    "name": [
+      "键山雏",
+      "鍵山 雛",
+      "Kagiyama Hina"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "040",
+    "name": [
+      "河城荷取",
+      "河城 にとり",
+      "Kawasiro Nitori"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "041",
+    "name": [
+      "犬走椛",
+      "犬走 椛",
+      "Inubashiri Momizi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "042",
+    "name": [
+      "东风谷早苗",
+      "東風谷 早苗",
+      "Kochiya Sanae"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "043",
+    "name": [
+      "八坂神奈子",
+      "八坂 神奈子",
+      "Yasaka Kanako"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "044",
+    "name": [
+      "洩矢诹访子",
+      "洩矢 諏訪子",
+      "Moriya Suwako"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "045",
+    "name": [
+      "永江衣玖",
+      "永江 衣玖",
+      "Nagae Iku"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "046",
+    "name": [
+      "比那名居天子",
+      "比那名居 天子",
+      "Hinanawi Tenshi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "047",
+    "name": [
+      "琪斯美",
+      "キスメ",
+      "Kisume"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "048",
+    "name": [
+      "黑谷山女",
+      "黒谷 ヤマメ",
+      "Kurodani Yamame"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "049",
+    "name": [
+      "水桥帕露西",
+      "水橋 パルスィ",
+      "Mizuhashi Parsee"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "050",
+    "name": [
+      "星熊勇仪",
+      "星熊 勇儀",
+      "Hoshiguma Yugi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "051",
+    "name": [
+      "古明地觉",
+      "古明地 さとり",
+      "Komeiji Satori"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "052",
+    "name": [
+      "火焰猫燐",
+      "火焔猫 燐",
+      "Kaenbyou Rin"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "053",
+    "name": [
+      "灵乌路空",
+      "霊烏路 空",
+      "Reiuzi Utsuho"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "054",
+    "name": [
+      "古明地恋",
+      "古明地 こいし",
+      "Komeiji Koishi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "055",
+    "name": [
+      "娜兹玲",
+      "ナズーリン",
+      "Nazrin"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "056",
+    "name": [
+      "多多良小伞",
+      "多々良 小傘",
+      "Tatara Kogasa"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "057",
+    "name": [
+      "云居一轮 & 云山",
+      "雲居 一輪 & 雲山",
+      "Kumoi Ichirin & Unzan"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "058",
+    "name": [
+      "村纱水蜜",
+      "村紗 水蜜",
+      "Captain Murasa Minamitsu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "059",
+    "name": [
+      "寅丸星",
+      "寅丸 星",
+      "Toramaru Syou"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "060",
+    "name": [
+      "圣白莲",
+      "聖 白蓮",
+      "Hijiri Byakuren"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "061",
+    "name": [
+      "封兽鵺",
+      "封獣 ぬえ",
+      "Houjuu Nue"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "062",
+    "name": [
+      "姬海棠果",
+      "姫海棠 はたて",
+      "Himekaidou Hatate"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "063",
+    "name": [
+      "幽谷响子",
+      "幽谷 響子",
+      "Kasodani Kyouko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "064",
+    "name": [
+      "宫古芳香",
+      "宮古 芳香",
+      "Miyako Yoshika"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "065",
+    "name": [
+      "霍青娥",
+      "霍 青娥",
+      "Kaku Seiga"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "066",
+    "name": [
+      "苏我屠自古",
+      "蘇我 屠自古",
+      "Soga no Toziko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "067",
+    "name": [
+      "物部布都",
+      "物部 布都",
+      "Mononobe no Futo"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "068",
+    "name": [
+      "丰聪耳神子",
+      "豊聡耳 神子",
+      "Toyosatomimi no Miko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "069",
+    "name": [
+      "二岩猯藏",
+      "二ッ岩 マミゾウ",
+      "Hutatsuiwa Mamizou"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "070",
+    "name": [
+      "秦心",
+      "秦 こころ",
+      "Hata no Kokoro"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "071",
+    "name": [
+      "若鹭姬",
+      "わかさぎ姫",
+      "Wakasagihime"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "072",
+    "name": [
+      "赤蛮奇",
+      "赤蛮奇",
+      "Sekibanki"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "073",
+    "name": [
+      "今泉影狼",
+      "今泉 影狼",
+      "Imaizumi Kagerou"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "074",
+    "name": [
+      "九十九弁弁",
+      "九十九 弁々",
+      "Tsukumo Benben"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "075",
+    "name": [
+      "九十九八桥",
+      "九十九 八橋",
+      "Tsukumo Yatsuhashi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "076",
+    "name": [
+      "鬼人正邪",
+      "鬼人 正邪",
+      "Kijin Seija"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "077",
+    "name": [
+      "少名针妙丸",
+      "少名 針妙丸",
+      "Sukuna Shinmyoumaru"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "078",
+    "name": [
+      "堀川雷鼓",
+      "堀川 雷鼓",
+      "Horikawa Raiko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "079",
+    "name": [
+      "宇佐见堇子",
+      "宇佐見 菫子",
+      "Usami Sumireko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "080",
+    "name": [
+      "清兰",
+      "清蘭",
+      "Seiran"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "081",
+    "name": [
+      "铃瑚",
+      "鈴瑚",
+      "Ringo"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "082",
+    "name": [
+      "哆来咪·苏伊特",
+      "ドレミー・スイート",
+      "Doremy Sweet"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "083",
+    "name": [
+      "稀神探女",
+      "稀神　サグメ",
+      "Kisin Sagume"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "084",
+    "name": [
+      "克劳恩皮丝",
+      "クラウンピース",
+      "Clownpiece"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "085",
+    "name": [
+      "纯狐",
+      "純狐",
+      "Junko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "086",
+    "name": [
+      "赫卡提亚·拉碧斯拉祖利",
+      "ヘカーティア・ラピスラズリ",
+      "Hecatia Lapislazuli"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "087",
+    "name": [
+      "依神女苑",
+      "依神 女苑",
+      "Yorigami Jyoon"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "088",
+    "name": [
+      "依神紫苑",
+      "依神 紫苑",
+      "Yorigami Shion"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "089",
+    "name": [
+      "爱塔妮缇拉尔瓦",
+      "エタニティラルバ",
+      "Eternity Larva"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "090",
+    "name": [
+      "坂田合欢",
+      "坂田 ネムノ",
+      "Sakata Nemuno"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "091",
+    "name": [
+      "高丽野阿吽",
+      "高麗野 あうん",
+      "Komano Aunn"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "092",
+    "name": [
+      "矢田寺成美",
+      "矢田寺 成美",
+      "Yatadera Narumi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "093",
+    "name": [
+      "尔子田里乃",
+      "爾子田 里乃",
+      "Nishida Satono"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "094",
+    "name": [
+      "丁礼田舞",
+      "丁礼田 舞",
+      "Teireida Mai"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "095",
+    "name": [
+      "摩多罗隐岐奈",
+      "摩多羅 隠岐奈",
+      "Matara Okina"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "096",
+    "name": [
+      "戎璎花",
+      "戎 瓔花",
+      "Ebisu Eika"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "097",
+    "name": [
+      "牛崎润美",
+      "牛崎 潤美",
+      "Ushizaki Urumi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "098",
+    "name": [
+      "庭渡久侘歌",
+      "庭渡 久侘歌",
+      "Niwatari Kutaka"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "099",
+    "name": [
+      "吉吊八千慧",
+      "吉弔 八千慧",
+      "Kitcho Yachie"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "100",
+    "name": [
+      "杖刀偶磨弓",
+      "杖刀偶 磨弓",
+      "Joutougu Mayumi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "101",
+    "name": [
+      "埴安神袿姬",
+      "埴安神 袿姫",
+      "Haniyasushin Keiki"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "102",
+    "name": [
+      "骊驹早鬼",
+      "驪駒 早鬼",
+      "Kurokoma Saki"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "103",
+    "name": [
+      "森近霖之助",
+      "森近 霖之助",
+      "Morichika Rinnosuke"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "104",
+    "name": [
+      "桑尼米尔克",
+      "サニーミルク",
+      "Sunny Milk"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "105",
+    "name": [
+      "露娜切露德",
+      "ルナチャイルド",
+      "Lunar Child"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "106",
+    "name": [
+      "斯塔萨菲雅",
+      "スターサファイア",
+      "Star Sapphire"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "107",
+    "name": [
+      "绵月丰姬",
+      "綿月 豊姫",
+      "Watatsuki no Toyohime"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "108",
+    "name": [
+      "绵月依姬",
+      "綿月 依姫",
+      "Watatsuki no Yorihime"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "109",
+    "name": [
+      "铃仙二号",
+      "レイセン",
+      "Reisen"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "110",
+    "name": [
+      "稗田阿求",
+      "稗田 阿求",
+      "Hieda no Akyuu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "111",
+    "name": [
+      "茨木华扇",
+      "茨木華扇",
+      "Ibaraki Kasen"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "112",
+    "name": [
+      "本居小铃",
+      "本居 小鈴",
+      "Motoori Kosuzu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "113",
+    "name": [
+      "奥野田美宵",
+      "奥野田 美宵",
+      "Okunoda Miyoi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "114",
+    "name": [
+      "宇佐见莲子",
+      "宇佐見 蓮子",
+      "Usami Renko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "115",
+    "name": [
+      "玛艾露贝莉·赫恩",
+      "マエリベリー・ハーン",
+      "Maribel Hearn"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "116",
+    "name": [
+      "神玉",
+      "神玉",
+      "SinGyoku"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "117",
+    "name": [
+      "魅魔",
+      "魅魔",
+      "Mima"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "118",
+    "name": [
+      "菊理",
+      "きくり",
+      "Kikuri"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "119",
+    "name": [
+      "矜羯罗",
+      "矜羯羅",
+      "Konngara"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "120",
+    "name": [
+      "幽幻魔眼",
+      "幽幻魔眼",
+      "YuugenMagan"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "121",
+    "name": [
+      "依莉斯",
+      "エリス",
+      "Elis"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "122",
+    "name": [
+      "萨丽爱尔",
+      "サリエル",
+      "Sariel"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "123",
+    "name": [
+      "玄爷",
+      "玄爺",
+      "Genjii"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "124",
+    "name": [
+      "里香",
+      "里香",
+      "Rika"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "125",
+    "name": [
+      "明罗",
+      "明羅",
+      "Meira"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "126",
+    "name": [
+      "爱莲",
+      "エレン",
+      "Ellen"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "127",
+    "name": [
+      "小兔姬",
+      "小兎姫",
+      "Kotohime"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "128",
+    "name": [
+      "卡娜·安娜贝拉尔",
+      "カナ・アナベラル",
+      "Kana Anaberal"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "129",
+    "name": [
+      "朝仓理香子",
+      "朝倉 理香子",
+      "Asakura Rikako"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "130",
+    "name": [
+      "北白河千百合",
+      "北白河 ちゆり",
+      "Kitashirakawa Chiyuri"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "131",
+    "name": [
+      "冈崎梦美",
+      "岡崎 夢美",
+      "Okazaki Yumemi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "132",
+    "name": [
+      "奥莲姬",
+      "オレンジ",
+      "Orange"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "133",
+    "name": [
+      "胡桃",
+      "くるみ",
+      "Kurumi"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "134",
+    "name": [
+      "艾丽",
+      "エリー",
+      "Elliy"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "135",
+    "name": [
+      "梦月",
+      "夢月",
+      "Mugetsu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "136",
+    "name": [
+      "幻月",
+      "幻月",
+      "Gengetu"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "137",
+    "name": [
+      "萨拉",
+      "サラ",
+      "Sara"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "138",
+    "name": [
+      "露易兹",
+      "ルイズ",
+      "Luize"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "139",
+    "name": [
+      "雪",
+      "ユキ",
+      "Yuki"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "140",
+    "name": [
+      "舞",
+      "マイ",
+      "Mai"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "141",
+    "name": [
+      "梦子",
+      "夢子",
+      "Yumeko"
+    ],
+    "nickName": "",
+    "race": "",
+    "job": "",
+    "region": "",
+    "works": [],
+    "description": "",
+    "abilities": "",
+    "themeMusic": ""
+  },
+  {
+    "id": "142",
+    "name": [
+      "神绮",
+      "神綺",
+      "Shinki"
     ],
     "nickName": "",
     "race": "",
